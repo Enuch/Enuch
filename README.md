@@ -11,4 +11,4 @@ Pretendo ser um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games WOW, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-enuch98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enuch98@gmail.com)](mailto:enuch98@gmail.com)
