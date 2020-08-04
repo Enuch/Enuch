@@ -9,4 +9,5 @@ Pretendo ser um FullStack Developer :computer:
  <br/> :blush: &nbsp; Tenho mais conhecimentos em desenvolvimento web
  <br/> :computer: &nbsp; Conhecimentos em: JavaScript, C++, HTML5 e CSS3
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games WOW, LoL e seriados no Netflix
+ <br/> Email: enuch98@gmail.com <br/> Linkin: 
  
