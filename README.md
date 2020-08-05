@@ -4,6 +4,9 @@
 Sempre curti desafios e criar coisas com programação.
 Pretendo ser um FullStack Developer :computer:
 
+<!--
+**Enuch/Enuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
  :rocket:  &nbsp; Estou estudando **Tecnologia em Analise e Desenvolvimento de Sistemas**
  <br/> :purple_heart: &nbsp; Buscando aprender cada vez mais e participar de projetos reais
  <br/> :blush: &nbsp; Tenho mais conhecimentos em desenvolvimento web
