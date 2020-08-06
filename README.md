@@ -1,6 +1,6 @@
 <h1 align="center">Enuch Santos</h1>
 
-<h3>Fala pessoal 👋<h3>
+<h3>Fala pessoal 👋</h3>
 Jogar e desenvolver é meu passa tempo favorito.
 FullStack Developer :computer:
 
