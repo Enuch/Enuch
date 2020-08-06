@@ -4,6 +4,8 @@
 Sempre curti desafios e criar coisas com programação.
 Pretendo ser um FullStack Developer :computer:
 
+![](https://komarev.com/ghpvc/?username=EnuchB&color=blue)
+
  :rocket:  &nbsp; Estou estudando **Tecnologia em Analise e Desenvolvimento de Sistemas**
  <br/> :purple_heart: &nbsp; Buscando aprender cada vez mais e participar de projetos reais
  <br/> :blush: &nbsp; Tenho mais conhecimentos em desenvolvimento web
