@@ -11,6 +11,6 @@ FullStack Developer :computer:
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Enuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/enuch-santos-3879a31b0/)](https://www.linkedin.com/in/enuch-santos-3879a31b0/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-enuch98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enuchsan@gmail.com)](mailto:enuch98@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-enuchsan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enuchsan@gmail.com)](mailto:enuch98@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=EnuchB&color=blue)
