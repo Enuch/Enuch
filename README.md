@@ -1,16 +1,13 @@
-<h1 align="center">Enuch Santos</h1>
+<h1 align="center">Olá! Me chamo Enuch</h1>
 
-<h3>Fala pessoal 👋</h3>
-Jogar e desenvolver é meu passa tempo favorito.
-FullStack Developer :computer:
-
- :rocket:  &nbsp; Estou estudando **Tecnologia em Analise e Desenvolvimento de Sistemas**
- <br/> :purple_heart: &nbsp; Buscando aprender cada vez mais e participar de projetos reais
- <br/> :computer: &nbsp; Conhecimentos em: JavaScript, C++, HTML5 e CSS3
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games WOW, LoL e seriados no Netflix
- 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Enuch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/enuch-santos-3879a31b0/)](https://www.linkedin.com/in/enuch-santos-383927200/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-enuchsan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enuchsan@gmail.com)](mailto:enuch98@gmail.com)
+<h3 align="center">Sou um super fã de Desenvolvimento Full-Stack e Web.</h3>
 
 ![](https://komarev.com/ghpvc/?username=EnuchB&color=blue)
+
+ * Atualmente cursando  **Tecnólogo em Analise e Desenvolvimento de Sistemas** :rocket:
+ * **Sobre mim:** Estou sempre fazendo cursinhos pela web e procurando projetos :books:
+ 
+<h3>Fale comigo 👥 </h3> 
+
+
+<h3>Tecnologias</h3>
